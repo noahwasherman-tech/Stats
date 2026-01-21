@@ -1205,5 +1205,94 @@
                 "Cooldown": 3.5
             }
         ]
-    }
-}
+    }, 
+    "Phantom Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://126073364440906",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+                 {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 0.05,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 150,
+                "Cooldown": 0.05,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 40,
+                "Damage": 225,
+                "Cooldown": 0.05,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 75000,
+                "Range": 50,
+                "Damage": 250,
+                "Cooldown": 0.05,
+                "Slow": 0.6,
+                "SlowTime": 1
+            }
+        ]
+    },
+     "Phantom Endo 02": {
+        "Type": "Melee",
+        "Image": "rbxassetid://125126259236116",
+        "Rarity": "Secret",
+        "PlacePrice": 3500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+                 {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 850,
+                "Cooldown": 2,
+                "Bleed": 0.10,
+            },
+            {
+                "Price": 7500,
+                "Range": 23,
+                "Damage": 1250,
+                "Cooldown": 1.75,
+                "Bleed": 0.10,
+            },
+            {
+                "Price": 14650,
+                "Range": 28,
+                "Damage": 225,
+                "Cooldown": 1.35,
+                "Bleed": 0.10,
+            },
+            {
+                "Price": 22500,
+                "Range": 30,
+                "Damage": 3250,
+                "Cooldown": 0.8,
+                "Bleed": 0.20,
+            }
+        ]
+    },
